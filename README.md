@@ -24,9 +24,9 @@
   * Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees) | [Solution](https://github.com/vikramtalware/SQL/blob/master/1.%20Basic%20Select/20.%20Employee%20Salaries) | Score: 10
 
 * Advance Select
-  * Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle) | [Solution]() | Score: 20
-  * The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads) | [Solution]() | Score: 30
-  * Occupations | [Problem](https://www.hackerrank.com/challenges/occupations) | [Solution]() | Score: 30
-  * Binary Tree Nodes| [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1) | [Solution]() | Score: 30
-  * New Companies | [Problem](https://www.hackerrank.com/challenges/the-company) | [Solution]() | Score: 30
+  * Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/01.%20Type%20of%20Triangle) | Score: 20
+  * The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/02.%20The%20PADS) | Score: 30
+  * Occupations | [Problem](https://www.hackerrank.com/challenges/occupations) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/03.%20Occupations) | Score: 30
+  * Binary Tree Nodes| [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/04.%20Binary%20Tree%20Nodes) | Score: 30
+  * New Companies | [Problem](https://www.hackerrank.com/challenges/the-company) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/05.%20New%20Companies) | Score: 30
   
