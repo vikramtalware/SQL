@@ -22,3 +22,11 @@
   * Higher Than 75 Marks | [Problem](https://www.hackerrank.com/challenges/more-than-75-marks) | [Solution](https://github.com/vikramtalware/SQL/blob/master/1.%20Basic%20Select/18.%20Higher%20Than%2075%20Marks) | Score: 15
   * Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees) | [Solution](https://github.com/vikramtalware/SQL/blob/master/1.%20Basic%20Select/19.%20Employee%20Names) | Score: 10
   * Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees) | [Solution](https://github.com/vikramtalware/SQL/blob/master/1.%20Basic%20Select/20.%20Employee%20Salaries) | Score: 10
+
+* Advance Select
+  * Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle) | [Solution]() | Score: 20
+  * The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads) | [Solution]() | Score: 30
+  * Occupations | [Problem](https://www.hackerrank.com/challenges/occupations) | [Solution]() | Score: 30
+  * Binary Tree Nodes| [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1) | [Solution]() | Score: 30
+  * New Companies | [Problem](https://www.hackerrank.com/challenges/the-company) | [Solution]() | Score: 30
+  
