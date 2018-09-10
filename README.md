@@ -31,20 +31,20 @@
   * New Companies | [Problem](https://www.hackerrank.com/challenges/the-company) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/05.%20New%20Companies) | Score: 30
 
 * Aggregation
-  * Revising Aggregations-The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [Solution]() | Score: 10
-  * Revising Aggregations-The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum) | [Solution]() | Score: 10
-  * Revising Aggregations-Averages | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [Solution]() | Score: 10
-  * Average Population | [Problem](https://www.hackerrank.com/challenges/average-population) | [Solution]() | Score: 10
-  * Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population) | [Solution]() | Score: 10
+  * Revising Aggregations-The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/01.%20Revising%20Aggregations%20-%20The%20Count%20Function) | Score: 10
+  * Revising Aggregations-The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/02.%20Revising%20Aggregations%20-%20The%20Sum%20Function) | Score: 10
+  * Revising Aggregations-Averages | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/03.%20Revising%20Aggregations%20-%20Averages) | Score: 10
+  * Average Population | [Problem](https://www.hackerrank.com/challenges/average-population) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/04.%20Average%20Population) | Score: 10
+  * Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/05.%20Japan%20Population) | Score: 10
   * Population Density Difference | [Problem](https://www.hackerrank.com/challenges/population-density-difference) | [Solution]() | Score: 10
-  * The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder) | [Solution]() | Score: 15
-  * Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees) | [Solution]() | Score: 20
-  * Weather Observation Station 2 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2) | [Solution]() | Score: 15
-  * Weather Observation Station 13 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13) | [Solution]() | Score: 10
-  * Weather Observation Station 14 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14) | [Solution]() | Score: 10
-  * Weather Observation Station 15 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15) | [Solution]() | Score: 15
-  * Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16) | [Solution]() | Score: 10
-  * Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17) | [Solution]() | Score: 15
-  * Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18) | [Solution]() | Score: 25
-  * Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19) | [Solution]() | Score: 30
-  * Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20) | [Solution]() | Score: 40  
+  * The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/07.%20The%20Blunder) | Score: 15
+  * Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/08.%20Top%20Earners) | Score: 20
+  * Weather Observation Station 2 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/09.%20Weather%20Observation%20Station%202) | Score: 15
+  * Weather Observation Station 13 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/10.%20Weather%20Observation%20Station%2013) | Score: 10
+  * Weather Observation Station 14 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/11.%20Weather%20Observation%20Station%2014) | Score: 10
+  * Weather Observation Station 15 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/12.%20Weather%20Observation%20Station%2015) | Score: 15
+  * Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/13.%20Weather%20Observation%20Station%2016) | Score: 10
+  * Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/14.%20Weather%20Observation%20Station%2017) | Score: 15
+  * Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/15.%20Weather%20Observation%20Station%2018) | Score: 25
+  * Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/16.%20Weather%20Observation%20Station%2019) | Score: 30
+  * Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/17.%20Weather%20Observation%20Station%2020) | Score: 40  
