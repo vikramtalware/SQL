@@ -50,11 +50,16 @@
   * Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/17.%20Weather%20Observation%20Station%2020) | Score: 40  
   
 * Basic Join
-  * Asian Population  | [Problem]() | [Solution](https://www.hackerrank.com/challenges/asian-population) | Score: 10
+  * Asian Population  | [Problem](https://www.hackerrank.com/challenges/asian-population) | [Solution]() | Score: 10
   * African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities) | [Solution]() | Score: 10
   * Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [Solution]() | Score: 10
-  * The Report | [Problem]() | [Solution](https://www.hackerrank.com/challenges/the-report) | Score: 20
-  * Top Competitors | [Problem]() | [Solution](https://www.hackerrank.com/challenges/full-score) | Score: 30
+  * The Report | [Problem](https://www.hackerrank.com/challenges/the-report) | [Solution]() | Score: 20
+  * Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score) | [Solution]() | Score: 30
   * Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [Solution]() | Score: 30
   * Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution]() | Score: 30
-  
+ 
+ * Advance Join
+  * Placements  | [Problem]() | [Solution]() | Score: 10
+  * African Cities | [Problem]() | [Solution]() | Score: 10
+  * Average Population of Each Continent | [Problem]() | [Solution]() | Score: 10
+  * The Report | [Problem]() | [Solution]() | Score: 20
