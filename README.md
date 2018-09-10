@@ -57,3 +57,7 @@
   * Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/05.%20Top%20Competitors) | Score: 30
   * Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/06.%20Ollivander's%20Inventory) | Score: 30
   * Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/07.%20Contest%20Leaderboard) | Score: 30
+
+* Advance Join
+  * Placements | [Problem](https://www.hackerrank.com/challenges/placements) | [Solution]() | Score: 40
+  * Interviews | [Problem](https://www.hackerrank.com/challenges/interviews) | [Solution]() | Score: 50
