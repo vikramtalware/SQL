@@ -29,4 +29,22 @@
   * Occupations | [Problem](https://www.hackerrank.com/challenges/occupations) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/03.%20Occupations) | Score: 30
   * Binary Tree Nodes| [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/04.%20Binary%20Tree%20Nodes) | Score: 30
   * New Companies | [Problem](https://www.hackerrank.com/challenges/the-company) | [Solution](https://github.com/vikramtalware/SQL/blob/master/2.%20Advance%20Select/05.%20New%20Companies) | Score: 30
-  
+
+* Aggregation
+  * Revising Aggregations-The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [Solution]() | Score: 10
+  * Revising Aggregations-The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum) | [Solution]() | Score: 10
+  * Revising Aggregations-Averages | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [Solution]() | Score: 10
+  * Average Population | [Problem](https://www.hackerrank.com/challenges/average-population) | [Solution]() | Score: 10
+  * Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population) | [Solution]() | Score: 10
+  * Population Density Difference | [Problem]https://www.hackerrank.com/challenges/population-density-difference() | [Solution]() | Score: 10
+  * The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder) | [Solution]() | Score: 15
+  * Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees) | [Solution]() | Score: 20
+  * Weather Observation Station 2 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2) | [Solution]() | Score: 15
+  * Weather Observation Station 13 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13) | [Solution]() | Score: 10
+  * Weather Observation Station 14 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14) | [Solution]() | Score: 10
+  * Weather Observation Station 15 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15) | [Solution]() | Score: 15
+  * Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16) | [Solution]() | Score: 10
+  * Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17) | [Solution]() | Score: 15
+  * Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18) | [Solution]() | Score: 25
+  * Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19) | [Solution]() | Score: 30
+  * Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20) | [Solution]() | Score: 40  
