@@ -59,5 +59,5 @@
   * Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/07.%20Contest%20Leaderboard) | Score: 30
 
 * Advance Join
-  * Placements | [Problem](https://www.hackerrank.com/challenges/placements) | [Solution]() | Score: 40
-  * Interviews | [Problem](https://www.hackerrank.com/challenges/interviews) | [Solution]() | Score: 50
+  * Placements | [Problem](https://www.hackerrank.com/challenges/placements) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/01.%20Placements) | Score: 40
+  * Interviews | [Problem](https://www.hackerrank.com/challenges/interviews) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/02.%20Interviews) | Score: 50
