@@ -57,9 +57,3 @@
   * Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score) | [Solution]() | Score: 30
   * Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [Solution]() | Score: 30
   * Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution]() | Score: 30
- 
- * Advance Join
-  * Placements  | [Problem]() | [Solution]() | Score: 10
-  * African Cities | [Problem]() | [Solution]() | Score: 10
-  * Average Population of Each Continent | [Problem]() | [Solution]() | Score: 10
-  * The Report | [Problem]() | [Solution]() | Score: 20
