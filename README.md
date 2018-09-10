@@ -1,5 +1,5 @@
 # SQL
-#### HackerRank SQL Practice ####
+#### HackerRank SQL Practice
 
 * Basic Select
   * Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/vikramtalware/SQL/blob/master/1.%20Basic%20Select/1.%20Revising%20the%20Select%20Query%20I) | Score: 10
@@ -48,3 +48,13 @@
   * Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/15.%20Weather%20Observation%20Station%2018) | Score: 25
   * Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/16.%20Weather%20Observation%20Station%2019) | Score: 30
   * Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20) | [Solution](https://github.com/vikramtalware/SQL/blob/master/3.%20Aggregations/17.%20Weather%20Observation%20Station%2020) | Score: 40  
+  
+* Basic Join
+  * Asian Population  | [Problem]() | [Solution](https://www.hackerrank.com/challenges/asian-population) | Score: 10
+  * African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities) | [Solution]() | Score: 10
+  * Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [Solution]() | Score: 10
+  * The Report | [Problem]() | [Solution](https://www.hackerrank.com/challenges/the-report) | Score: 20
+  * Top Competitors | [Problem]() | [Solution](https://www.hackerrank.com/challenges/full-score) | Score: 30
+  * Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [Solution]() | Score: 30
+  * Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution]() | Score: 30
+  
