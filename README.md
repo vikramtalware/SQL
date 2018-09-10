@@ -56,7 +56,8 @@
   * The Report | [Problem](https://www.hackerrank.com/challenges/the-report) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/04.%20The%20Report) | Score: 20
   * Top Competitors | [Problem](https://www.hackerrank.com/challenges/full-score) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/05.%20Top%20Competitors) | Score: 30
   * Ollivander's Inventory | [Problem](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/06.%20Ollivander's%20Inventory) | Score: 30
-  * Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/07.%20Contest%20Leaderboard) | Score: 30
+  * Challenges | [Problem](https://www.hackerrank.com/challenges/challenges) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/07.%20Challenges) | Score: 30
+  * Contest Leaderboard | [Problem](https://www.hackerrank.com/challenges/contest-leaderboard) | [Solution](https://github.com/vikramtalware/SQL/blob/master/4.%20Basic%20Join/08.%20Contest%20Leaderboard) | Score: 30
 
 * Advance Join
   * Placements | [Problem](https://www.hackerrank.com/challenges/placements) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/01.%20Placements) | Score: 40
