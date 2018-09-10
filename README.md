@@ -36,7 +36,7 @@
   * Revising Aggregations-Averages | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [Solution]() | Score: 10
   * Average Population | [Problem](https://www.hackerrank.com/challenges/average-population) | [Solution]() | Score: 10
   * Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population) | [Solution]() | Score: 10
-  * Population Density Difference | [Problem]https://www.hackerrank.com/challenges/population-density-difference() | [Solution]() | Score: 10
+  * Population Density Difference | [Problem](https://www.hackerrank.com/challenges/population-density-difference) | [Solution]() | Score: 10
   * The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder) | [Solution]() | Score: 15
   * Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees) | [Solution]() | Score: 20
   * Weather Observation Station 2 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2) | [Solution]() | Score: 15
