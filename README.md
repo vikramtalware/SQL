@@ -64,3 +64,4 @@
   * Interviews | [Problem](https://www.hackerrank.com/challenges/interviews) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/02.%20Interviews) | Score: 50
   * Symmetric Pairs | [Problem](https://www.hackerrank.com/challenges/symmetric-pairs) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/03.%20Symmetric%20Pairs) | Score: 40
   * 15 Days of Learning SQL | [Problem](https://www.hackerrank.com/challenges/15-days-of-learning-sql) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/04.%2015%20days%20of%20learning%20SQL) | Score: 50
+  * Draw the Triangle 1 | [Problem](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/05.%20Draw%20the%20Triangle%201) | Score: 25
