@@ -63,3 +63,4 @@
   * Placements | [Problem](https://www.hackerrank.com/challenges/placements) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/01.%20Placements) | Score: 40
   * Interviews | [Problem](https://www.hackerrank.com/challenges/interviews) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/02.%20Interviews) | Score: 50
   * Symmetric Pairs | [Problem](https://www.hackerrank.com/challenges/symmetric-pairs) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/03.%20Symmetric%20Pairs) | Score: 40
+  * 15 Days of Learning SQL | [Problem](https://www.hackerrank.com/challenges/15-days-of-learning-sql) | [Solution](https://github.com/vikramtalware/SQL/blob/master/5.%20Advance%20Join/04.%2015%20days%20of%20learning%20SQL) | Score: 50
