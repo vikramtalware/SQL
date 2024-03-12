@@ -7,3 +7,6 @@ WITH Recursive_CTE AS
 
 SELECT REPLICATE('* ', counter)
 FROM Recursive_CTE
+
+
+/* Test If This Change is pushed back to GIT */
