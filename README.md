@@ -1,5 +1,5 @@
 # SQL
-#### HackerRank SQL Practice
+#### HackerRank SQL Solutions
 
 * Basic Select
   * Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/vikramtalware/SQL/blob/master/1.%20Basic%20Select/1.%20Revising%20the%20Select%20Query%20I) | Score: 10
